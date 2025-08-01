@@ -1,1 +1,1 @@
-# golf-swing-RAG
+# RAG for Golf Rules
