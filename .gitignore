@@ -1,0 +1,5 @@
+*.json
+.env
+*.ipynb
+*.pdf
+__pycache__/
